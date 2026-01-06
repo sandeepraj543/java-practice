@@ -1,0 +1,1 @@
+ // System.out.println("Perimeter of rectangle is:" + perimeter_of_rectangle);
